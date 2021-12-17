@@ -1,0 +1,21 @@
+SAIRA Shopping List
+
+4 Soldering Iron Tips
+
+Micro SD Breakout
+Riverdi Click
+TFT 5"
+Barrel Jack
+Boost Converter
+LM317 Regulators
+Ultimate GPS
+GPS Antenna
+GPS Board Antenna Adapter
+ESP32
+STM32F3 Discovery
+Power Switch
+
+A225
+S3204-08
+ISO7840
+ 
